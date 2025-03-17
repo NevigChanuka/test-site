@@ -98,7 +98,7 @@ const Home: React.FC = () => {
 
 
           <div className="w-full h-90 ">
-            <div id="1" ref={addDivRef} className="flex justify-evenly text-black  border-2 border-emerald-900   w-full h-90   hover:bg-emerald-900  hover:text-white duration-500 mb-10" > 
+            <div id="1" ref={addDivRef} className="flex justify-evenly text-black  border-2 border-emerald-900 h-90   hover:bg-emerald-900  hover:text-white duration-500 mb-10 mr-30" > 
 
             <div  className=" w-100 h-100 content-center ">
               <div>
@@ -114,8 +114,8 @@ const Home: React.FC = () => {
 
 
 
-          <div className="w-full  h-90 ml-60 ">
-            <div id="0" ref={addDivRef} className="flex justify-evenly  w-full  h-90  text-black  border-2 border-emerald-900   hover:bg-emerald-900  hover:text-white duration-500 mb-10 " > 
+          <div className="w-full  h-90 ">
+            <div id="0" ref={addDivRef} className="flex justify-evenly h-90  text-black  border-2 border-emerald-900   hover:bg-emerald-900  hover:text-white duration-500 mb-10 ml-30 " > 
               <div   className="flex justify-center items-center w-100 h-100 ">
                 <img src="\src\assets\picbr2.png" alt="png2" />
               </div>
@@ -131,7 +131,7 @@ const Home: React.FC = () => {
 
 
           <div className="w-full h-90 ">
-            <div  id="1" ref={addDivRef} className="flex justify-evenly w-full h-90   text-black  border-2 border-emerald-900  hover:bg-emerald-900  hover:text-white duration-500 mb-10" > 
+            <div  id="1" ref={addDivRef} className="flex justify-evenly  h-90   text-black  border-2 border-emerald-900  hover:bg-emerald-900  hover:text-white duration-500 mb-10 mr-30" > 
               <div   className="w-100 h-100 content-center ">
               <div>
                 <span className="font-CCWelikala text-4xl">jHdlrK Wmfoia</span>
@@ -147,7 +147,7 @@ const Home: React.FC = () => {
 
 
           <div className="w-full h-90 ">
-            <div id="0" ref={addDivRef} className="flex justify-evenly w-full h-90  text-black  border-2 border-emerald-900 hover:bg-emerald-900  hover:text-white duration-500" > 
+            <div id="0" ref={addDivRef} className="flex justify-evenly h-90  text-black  border-2 border-emerald-900 hover:bg-emerald-900  hover:text-white duration-500 ml-30" > 
               <div  className="flex justify-center items-center w-100 h-100">
                 <img src="\src\assets\picbr4.png" alt="png2" />
               </div>
